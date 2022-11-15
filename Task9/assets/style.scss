@@ -1,0 +1,15 @@
+.container {
+  width: 90%;
+  margin: auto;
+  .box {
+    display: inline-block;
+    width: 15%;
+    height: 180px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    div {
+      margin-top: 10px;
+    }
+  }
+}
